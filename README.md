@@ -12,8 +12,7 @@
 
 <br></br>
 <br>
-## 리파지토리 이동 및 변경.
-## 신규 주소는 아래를 참조하세요
+## 리파지토리 이동 및 변경.<br> 신규 주소는 아래를 참조하세요
 <br>
 https://github.com/redstar-programmer/upscaler
 <br><br>
